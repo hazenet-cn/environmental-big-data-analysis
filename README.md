@@ -1,2 +1,5 @@
-# environmental-big-data-analysis
-《环境大数据分析》教材配套代码、数据与案例
+# 《环境大数据分析》
+
+本仓库为《环境大数据分析》教材配套资源库，
+提供教材各章节的示例数据、Python/R代码、
+Jupyter Notebook及补充材料。
